@@ -26,15 +26,15 @@
 
 <table>
     <thead>
-    <th>
-        company
-    </th>
-    <th>
-        shares owned
-    </th>
-    <th>
-        purchase price
-    </th>
+        <th>
+            company
+        </th>
+        <th>
+            shares owned
+        </th>
+        <th>
+            purchase price
+        </th>
     </thead>
     <tbody id="stonkData" >
         @foreach (var stok in allStonks)
@@ -76,15 +76,15 @@
 <h3>Portfolio</h3>
 <table>
     <thead>
-    <th>
-        company
-    </th>
-    <th>
-        shares owned
-    </th>
-    <th>
-        net worth
-    </th>
+        <th>
+            company
+        </th>
+        <th>
+            shares owned
+        </th>
+        <th>
+            net worth
+        </th>
     </thead>
     <tbody id="stonkDataRedeux" >
     @foreach (var stok in allStonks)
@@ -98,6 +98,42 @@
             </tr>
         }
     }
+    </tbody>
+</table><br/>
+
+<table>
+    <thead>
+    <th>
+        company
+    </th>
+    <th>
+        shares owned
+    </th>
+    <th>
+        purchase price
+    </th>
+    <th>
+        profit
+    </th>
+    <th>
+        purchase date
+    </th>
+    </thead>
+    <tbody id="purchaseHistory" >
+        @foreach (var stok in _purchaseHistory)
+        {
+            @if (_purchaseHistory.Count > 0)
+            {
+                <tr>
+                    <td>@stok.Symbol</td>
+                    <td>@stok.NumberOfShares</td>
+                    <td>@stok.Price.ToString("F2")</td>
+                    <td>@stok.Profit.ToString("F2")</td>
+                    <td>@stok.PurchaseDate</td>
+                </tr>
+            }
+        
+        }
     </tbody>
 </table><br/>
 
@@ -130,6 +166,7 @@ else
     private DateTime saleDate = DateTime.Today;
     private decimal salePrice { get; set; }
     private decimal networth { get; set; }
+    private List<PurchaseHistory> _purchaseHistory = new List<PurchaseHistory>();
 
     private void CalcTotalCost()
     {
@@ -150,16 +187,20 @@ else
         }
 
         networth += TotalCost;
-        balance = balance - TotalCost;
-        
+        balance -=TotalCost;
+        PurchaseHistory purchaseHistory = new PurchaseHistory(StockSymbol, saleDate, numberOfStock, salePrice);
+        _purchaseHistory.Add(purchaseHistory);
     }
 
     private void Sell()
     {
+        
         profit = (salePrice * numberOfStock) - (StockPrice * numberOfStock);
         networth -= salePrice;
         
-        balance = balance + profit;
+        balance += profit;
+        PurchaseHistory purchaseHistory = new PurchaseHistory(StockSymbol, saleDate, numberOfStock, salePrice, profit);
+        _purchaseHistory.Add(purchaseHistory);
     }
     
     protected override async Task OnInitializedAsync()
