@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oGToT+0cTaW49Fe7SLCiAcriPD30LveH+Ia8V+V0XFA=",
+  "Hash": "EH5HTL/Jbg/y4dT8l8hPgq9zHd+teodp0bYeXa3f/oA=",
   "Source": "StockAdvantage.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "wgp70hbfgv",
-      "Integrity": "sNBRh8gOwMdssNAIqz3dff7Km068bH7zOqpY6PKzP58=",
+      "Fingerprint": "vye9rstrr5",
+      "Integrity": "+dA289UveaiYGQWfgEJmGS8fHu5V1tHVu8kn6CHpenI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "wncb6jj4e3",
-      "Integrity": "3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0=",
+      "Fingerprint": "fb32j6gl7n",
+      "Integrity": "S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\StockAdvantage.Client.pdb"
@@ -1060,8 +1060,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "eh0gcsrdui",
-      "Integrity": "ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs=",
+      "Fingerprint": "5pa4gbllt1",
+      "Integrity": "10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\webcil\\StockAdvantage.Client.wasm"
@@ -5204,12 +5204,12 @@
       "OriginalItemSpec": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Principal.Windows.wasm"
     },
     {
-      "Identity": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-wncb6jj4e3.gz",
+      "Identity": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-fb32j6gl7n.gz",
       "SourceId": "StockAdvantage.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/StockAdvantage.Client#[.{fingerprint=wncb6jj4e3}]!.pdb.gz",
+      "RelativePath": "_framework/StockAdvantage.Client#[.{fingerprint=fb32j6gl7n}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5218,8 +5218,8 @@
       "RelatedAsset": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\StockAdvantage.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pyhv4uisce",
-      "Integrity": "sUhOk83IBG88tIsPJIZhFpaGaXtNwS3xMBNcZ5KO7TE=",
+      "Fingerprint": "r6euc9sq9c",
+      "Integrity": "UzOq6RH8EoxZaWBRbXKfllvVUCJ9DFmKc/m5vWZiRWc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\StockAdvantage.Client.pdb"
@@ -6044,7 +6044,7 @@
       "OriginalItemSpec": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.Extensions.wasm"
     },
     {
-      "Identity": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\ctq1x2pm1a-wgp70hbfgv.gz",
+      "Identity": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\ctq1x2pm1a-vye9rstrr5.gz",
       "SourceId": "StockAdvantage.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -6058,8 +6058,8 @@
       "RelatedAsset": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "w5k8qh0gpd",
-      "Integrity": "7Kk5M6tIIpqZndY+zixasPYlXXkd5dNUuyGZdZhjhEA=",
+      "Fingerprint": "4fyvjwc9ec",
+      "Integrity": "ADPVFqgTPggKaTs+5tPLrcvfzP/2hsgu0OpGKtYGsJI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8333,12 +8333,12 @@
       "OriginalItemSpec": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.wasm"
     },
     {
-      "Identity": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-eh0gcsrdui.gz",
+      "Identity": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-5pa4gbllt1.gz",
       "SourceId": "StockAdvantage.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/StockAdvantage.Client#[.{fingerprint=eh0gcsrdui}]!.wasm.gz",
+      "RelativePath": "_framework/StockAdvantage.Client#[.{fingerprint=5pa4gbllt1}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8347,8 +8347,8 @@
       "RelatedAsset": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\StockAdvantage.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5y5d3x1cjb",
-      "Integrity": "XXaue78pBM9B0uGd0rRuJtIi3BHDc/JUdjX97lfkdRU=",
+      "Fingerprint": "03aef4jk8q",
+      "Integrity": "dKbP1hqvwaecu3Mlxi6xo5IE4zGa9E+W86PRDTyRlv8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\StockAdvantage.Client.wasm"
@@ -9067,7 +9067,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sNBRh8gOwMdssNAIqz3dff7Km068bH7zOqpY6PKzP58=\""
+          "Value": "\"+dA289UveaiYGQWfgEJmGS8fHu5V1tHVu8kn6CHpenI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+dA289UveaiYGQWfgEJmGS8fHu5V1tHVu8kn6CHpenI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\ctq1x2pm1a-vye9rstrr5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000077405372"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12918"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ADPVFqgTPggKaTs+5tPLrcvfzP/2hsgu0OpGKtYGsJI=\""
         },
         {
           "Name": "Last-Modified",
@@ -9076,45 +9115,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-sNBRh8gOwMdssNAIqz3dff7Km068bH7zOqpY6PKzP58="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\ctq1x2pm1a-wgp70hbfgv.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000077399381"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12919"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7Kk5M6tIIpqZndY+zixasPYlXXkd5dNUuyGZdZhjhEA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:38:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9130,19 +9130,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sNBRh8gOwMdssNAIqz3dff7Km068bH7zOqpY6PKzP58=\""
+          "Value": "W/\"+dA289UveaiYGQWfgEJmGS8fHu5V1tHVu8kn6CHpenI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sNBRh8gOwMdssNAIqz3dff7Km068bH7zOqpY6PKzP58="
+          "Value": "sha256-+dA289UveaiYGQWfgEJmGS8fHu5V1tHVu8kn6CHpenI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\ctq1x2pm1a-wgp70hbfgv.gz",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\ctq1x2pm1a-vye9rstrr5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9151,7 +9151,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12919"
+          "Value": "12918"
         },
         {
           "Name": "Content-Type",
@@ -9159,11 +9159,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7Kk5M6tIIpqZndY+zixasPYlXXkd5dNUuyGZdZhjhEA=\""
+          "Value": "\"ADPVFqgTPggKaTs+5tPLrcvfzP/2hsgu0OpGKtYGsJI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:38:08 GMT"
+          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9181,7 +9181,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7Kk5M6tIIpqZndY+zixasPYlXXkd5dNUuyGZdZhjhEA="
+          "Value": "sha256-ADPVFqgTPggKaTs+5tPLrcvfzP/2hsgu0OpGKtYGsJI="
         }
       ]
     },
@@ -23031,7 +23031,7 @@
       ]
     },
     {
-      "Route": "_framework/StockAdvantage.Client.eh0gcsrdui.wasm",
+      "Route": "_framework/StockAdvantage.Client.5pa4gbllt1.wasm",
       "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\StockAdvantage.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -23049,11 +23049,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs=\""
+          "Value": "\"10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:31 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23063,7 +23063,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eh0gcsrdui"
+          "Value": "5pa4gbllt1"
         },
         {
           "Name": "label",
@@ -23071,18 +23071,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs="
+          "Value": "sha256-10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU="
         }
       ]
     },
     {
-      "Route": "_framework/StockAdvantage.Client.eh0gcsrdui.wasm",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-eh0gcsrdui.gz",
+      "Route": "_framework/StockAdvantage.Client.5pa4gbllt1.wasm",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-5pa4gbllt1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000094750805"
+          "Quality": "0.000094491165"
         }
       ],
       "ResponseHeaders": [
@@ -23092,15 +23092,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10553"
+          "Value": "10582"
         },
         {
           "Name": "ETag",
-          "Value": "\"XXaue78pBM9B0uGd0rRuJtIi3BHDc/JUdjX97lfkdRU=\""
+          "Value": "\"dKbP1hqvwaecu3Mlxi6xo5IE4zGa9E+W86PRDTyRlv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23120,13 +23120,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs=\""
+          "Value": "W/\"10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eh0gcsrdui"
+          "Value": "5pa4gbllt1"
         },
         {
           "Name": "label",
@@ -23134,13 +23134,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs="
+          "Value": "sha256-10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU="
         }
       ]
     },
     {
-      "Route": "_framework/StockAdvantage.Client.eh0gcsrdui.wasm.gz",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-eh0gcsrdui.gz",
+      "Route": "_framework/StockAdvantage.Client.5pa4gbllt1.wasm.gz",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-5pa4gbllt1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23149,7 +23149,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10553"
+          "Value": "10582"
         },
         {
           "Name": "Content-Type",
@@ -23157,11 +23157,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XXaue78pBM9B0uGd0rRuJtIi3BHDc/JUdjX97lfkdRU=\""
+          "Value": "\"dKbP1hqvwaecu3Mlxi6xo5IE4zGa9E+W86PRDTyRlv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23179,7 +23179,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eh0gcsrdui"
+          "Value": "5pa4gbllt1"
         },
         {
           "Name": "label",
@@ -23187,7 +23187,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XXaue78pBM9B0uGd0rRuJtIi3BHDc/JUdjX97lfkdRU="
+          "Value": "sha256-dKbP1hqvwaecu3Mlxi6xo5IE4zGa9E+W86PRDTyRlv8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/StockAdvantage.Client.fb32j6gl7n.pdb",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\StockAdvantage.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fb32j6gl7n"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/StockAdvantage.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/StockAdvantage.Client.fb32j6gl7n.pdb",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-fb32j6gl7n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060949595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16406"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UzOq6RH8EoxZaWBRbXKfllvVUCJ9DFmKc/m5vWZiRWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fb32j6gl7n"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/StockAdvantage.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/StockAdvantage.Client.fb32j6gl7n.pdb.gz",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-fb32j6gl7n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UzOq6RH8EoxZaWBRbXKfllvVUCJ9DFmKc/m5vWZiRWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fb32j6gl7n"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/StockAdvantage.Client.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UzOq6RH8EoxZaWBRbXKfllvVUCJ9DFmKc/m5vWZiRWc="
         }
       ]
     },
@@ -23202,7 +23363,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24404"
+          "Value": "24424"
         },
         {
           "Name": "Content-Type",
@@ -23210,11 +23371,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0=\""
+          "Value": "\"S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:31 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23224,18 +23385,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0="
+          "Value": "sha256-S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM="
         }
       ]
     },
     {
       "Route": "_framework/StockAdvantage.Client.pdb",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-wncb6jj4e3.gz",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-fb32j6gl7n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000061046334"
+          "Quality": "0.000060949595"
         }
       ],
       "ResponseHeaders": [
@@ -23245,15 +23406,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16380"
+          "Value": "16406"
         },
         {
           "Name": "ETag",
-          "Value": "\"sUhOk83IBG88tIsPJIZhFpaGaXtNwS3xMBNcZ5KO7TE=\""
+          "Value": "\"UzOq6RH8EoxZaWBRbXKfllvVUCJ9DFmKc/m5vWZiRWc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23273,19 +23434,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0=\""
+          "Value": "W/\"S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0="
+          "Value": "sha256-S4jn3nIk4+9zxSapIiX7lvzVa71/2GXjTvsZBSUJdxM="
         }
       ]
     },
     {
       "Route": "_framework/StockAdvantage.Client.pdb.gz",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-wncb6jj4e3.gz",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-fb32j6gl7n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23294,7 +23455,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16380"
+          "Value": "16406"
         },
         {
           "Name": "Content-Type",
@@ -23302,11 +23463,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sUhOk83IBG88tIsPJIZhFpaGaXtNwS3xMBNcZ5KO7TE=\""
+          "Value": "\"UzOq6RH8EoxZaWBRbXKfllvVUCJ9DFmKc/m5vWZiRWc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23324,7 +23485,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sUhOk83IBG88tIsPJIZhFpaGaXtNwS3xMBNcZ5KO7TE="
+          "Value": "sha256-UzOq6RH8EoxZaWBRbXKfllvVUCJ9DFmKc/m5vWZiRWc="
         }
       ]
     },
@@ -23347,11 +23508,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs=\""
+          "Value": "\"10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:31 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23361,18 +23522,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs="
+          "Value": "sha256-10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU="
         }
       ]
     },
     {
       "Route": "_framework/StockAdvantage.Client.wasm",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-eh0gcsrdui.gz",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-5pa4gbllt1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000094750805"
+          "Quality": "0.000094491165"
         }
       ],
       "ResponseHeaders": [
@@ -23382,15 +23543,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10553"
+          "Value": "10582"
         },
         {
           "Name": "ETag",
-          "Value": "\"XXaue78pBM9B0uGd0rRuJtIi3BHDc/JUdjX97lfkdRU=\""
+          "Value": "\"dKbP1hqvwaecu3Mlxi6xo5IE4zGa9E+W86PRDTyRlv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23410,19 +23571,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs=\""
+          "Value": "W/\"10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ji2xrbTAu1qaZ+eC1DFkB9tCdG//AKDjILnL/1lcZKs="
+          "Value": "sha256-10Tl06p3zxWpPQf5cAY4B60Z26krLOKIZr1I0JSrfPU="
         }
       ]
     },
     {
       "Route": "_framework/StockAdvantage.Client.wasm.gz",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-eh0gcsrdui.gz",
+      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\uxkiheiif5-5pa4gbllt1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23431,7 +23592,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10553"
+          "Value": "10582"
         },
         {
           "Name": "Content-Type",
@@ -23439,11 +23600,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XXaue78pBM9B0uGd0rRuJtIi3BHDc/JUdjX97lfkdRU=\""
+          "Value": "\"dKbP1hqvwaecu3Mlxi6xo5IE4zGa9E+W86PRDTyRlv8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
+          "Value": "Sat, 15 Feb 2025 20:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23461,168 +23622,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XXaue78pBM9B0uGd0rRuJtIi3BHDc/JUdjX97lfkdRU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/StockAdvantage.Client.wncb6jj4e3.pdb",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\StockAdvantage.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24404"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wncb6jj4e3"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/StockAdvantage.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/StockAdvantage.Client.wncb6jj4e3.pdb",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-wncb6jj4e3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000061046334"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16380"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sUhOk83IBG88tIsPJIZhFpaGaXtNwS3xMBNcZ5KO7TE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wncb6jj4e3"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/StockAdvantage.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3DYdSgiF1sxxNTgdXyBjIJNl7GorBHMF5ip9K9Q07u0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/StockAdvantage.Client.wncb6jj4e3.pdb.gz",
-      "AssetFile": "C:\\IndianHills\\adv.net\\StockAdvantage\\StockAdvantage.Client\\obj\\Debug\\net9.0\\compressed\\6g5lxqd8fp-wncb6jj4e3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16380"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sUhOk83IBG88tIsPJIZhFpaGaXtNwS3xMBNcZ5KO7TE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 20:39:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wncb6jj4e3"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/StockAdvantage.Client.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sUhOk83IBG88tIsPJIZhFpaGaXtNwS3xMBNcZ5KO7TE="
+          "Value": "sha256-dKbP1hqvwaecu3Mlxi6xo5IE4zGa9E+W86PRDTyRlv8="
         }
       ]
     },

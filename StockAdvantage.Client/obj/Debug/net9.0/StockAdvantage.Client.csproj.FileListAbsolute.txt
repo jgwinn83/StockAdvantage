@@ -2148,10 +2148,10 @@ C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\Sto
 C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\refint\StockAdvantage.Client.dll
 C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\StockAdvantage.Client.pdb
 C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\ref\StockAdvantage.Client.dll
-C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\bin\Debug\net9.0\wwwroot\_framework\StockAdvantage.Client.wncb6jj4e3.pdb
-C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\bin\Debug\net9.0\wwwroot\_framework\StockAdvantage.Client.eh0gcsrdui.wasm
-C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\bin\Debug\net9.0\wwwroot\_framework\StockAdvantage.Client.wncb6jj4e3.pdb.gz
-C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\bin\Debug\net9.0\wwwroot\_framework\StockAdvantage.Client.eh0gcsrdui.wasm.gz
-C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\compressed\uxkiheiif5-eh0gcsrdui.gz
-C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\compressed\6g5lxqd8fp-wncb6jj4e3.gz
-C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\compressed\ctq1x2pm1a-wgp70hbfgv.gz
+C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\bin\Debug\net9.0\wwwroot\_framework\StockAdvantage.Client.fb32j6gl7n.pdb
+C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\bin\Debug\net9.0\wwwroot\_framework\StockAdvantage.Client.5pa4gbllt1.wasm
+C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\bin\Debug\net9.0\wwwroot\_framework\StockAdvantage.Client.fb32j6gl7n.pdb.gz
+C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\bin\Debug\net9.0\wwwroot\_framework\StockAdvantage.Client.5pa4gbllt1.wasm.gz
+C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\compressed\uxkiheiif5-5pa4gbllt1.gz
+C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\compressed\6g5lxqd8fp-fb32j6gl7n.gz
+C:\IndianHills\adv.net\StockAdvantage\StockAdvantage.Client\obj\Debug\net9.0\compressed\ctq1x2pm1a-vye9rstrr5.gz
